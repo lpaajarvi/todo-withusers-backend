@@ -1,3 +1,16 @@
+I didn't want to reuse code from the previous todo-app, so I could see what I can come up with from scratch.
+
+Uses MERN:
+<ul>
+ <li>MongoDB Atlas (in cloud) as database</li>
+ <li>Node.Js/Express as Backend</li>
+ <li>React.js as Frontend</li>
+</ul>
+<p>
+Password authentication is not fully secure, but I wanted to think of a logic of my own in MongoDB before I start using ready-made packages for it. 
+</p>
+
+
 User accounts that have access to the app (these are in a collection in mongodb Atlas:
 
 <ol>
@@ -5,6 +18,8 @@ User accounts that have access to the app (these are in a collection in mongodb 
 <li> email: `second@somemail.com` password: `secondpass`</li>
 <li> email: `third@another.com` password: `thirdpass`</li>
 </ol>
+
+
 
 
 <h3>Install instructions:</h3>
