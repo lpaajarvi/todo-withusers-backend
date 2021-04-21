@@ -1,6 +1,6 @@
 User accounts that have access to the app (these are in a collection in mongodb Atlas:
 
-email: ##### `example@hotmail.com` password: ##### `pass`
+email: `example@hotmail.com` password: `pass`
 
 
 email: "second@somemail.com"
