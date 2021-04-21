@@ -1,0 +1,1 @@
+DATABASE_ACCESS = "mongodb+srv://SampleUser:PasswordHere@cluster0.v5kg6.mongodb.net/signtable?retryWrites=true&w=majority"
