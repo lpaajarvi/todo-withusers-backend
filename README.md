@@ -1,10 +1,10 @@
 User accounts that have access to the app (these are in a collection in mongodb Atlas:
 
+<ol>
 <li> email: `example@hotmail.com` password: `pass` </li>
-<br/>
-email: `second@somemail.com` password: `secondpass`
-<br/>
-email: `third@another.com` password: `thirdpass`
+<li> email: `second@somemail.com` password: `secondpass`</li>
+<li> email: `third@another.com` password: `thirdpass`</li>
+</ol>
 
 
 <h3>Install instructions:</h3>
