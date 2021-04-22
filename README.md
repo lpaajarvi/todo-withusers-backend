@@ -1,3 +1,6 @@
+<h2>App is deployed in Heroku: https://todo-with-users-lauri.herokuapp.com/</h2>
+
+ 
 I didn't want to reuse code from the previous todo-app, so I could see what I can come up with from scratch.
 
 Uses MERN:
