@@ -56,7 +56,8 @@ go back to c:/test/ or equivalent
 ### `git clone https://github.com/lpaajarvi/todo-withusers-frontend`
 <br />
 
-### `cd todo-withusers-frontend npm install`
+### `cd todo-withusers-frontend`
+### `npm install`
 <br />
 
 You should open 2 different terminals. One keeping the backend localhost server up, and the other keeping the frontend localhost up. run 
